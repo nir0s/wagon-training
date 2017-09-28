@@ -1,0 +1,6 @@
+classes:
+  - presentations:
+      - presentations/presentation.pdf
+  - labs:
+      - base_ami: ami-829145ed
+        provision_script: labs/provision.sh
